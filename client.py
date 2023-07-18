@@ -22,4 +22,4 @@ def sendMessage(msg):
     client.send(message)
 
 sendMessage("Hello devshehan!!!")
-sendMessage("!DISCONNECT")
+sendMessage(DISCONNECT_MESSAGE)
